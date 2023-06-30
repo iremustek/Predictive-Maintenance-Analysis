@@ -4,7 +4,7 @@ This project focuses on optimizing aircraft engine maintenance operations by uti
 
 ## Modelling
 
-The related notebook regarding this analysis can be found [here]()
+The related notebook regarding this analysis can be found [here]().
 
 ### Regression
 - Elastic Net Regression
