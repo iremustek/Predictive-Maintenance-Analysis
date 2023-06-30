@@ -4,7 +4,7 @@ This project focuses on optimizing aircraft engine maintenance operations by uti
 
 ## Modelling
 
-The related notebook regarding this analysis can be found [here]().
+The related notebook regarding this analysis can be found [here](https://nbviewer.org/github/iremustek/Predictive-Maintenance-Analysis/blob/b89785dda3e7228144b9f2dfb1d8fcda4ec92215/Predictive%20Maintenance%20Analysis%20with%20Regression%20and%20Classification%20Methods.ipynb).
 
 ### Regression
 - Elastic Net Regression
